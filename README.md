@@ -51,8 +51,10 @@ brew install tf-summarize
 
 #### Using asdf
 ```sh
+asdf plugin install tf-summarize
 asdf install tf-summarize latest
 ```
+<sub>See the [plugin source](https://github.com/adamcrews/asdf-tf-summarize#install) for more information.</sub>
 
 #### Using Docker
 ```sh
